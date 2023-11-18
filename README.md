@@ -26,4 +26,5 @@ To develop a website to display details about the places around my house.
 
 
 # Output:
+C:\Users\admin\Pictures\Screenshots\Screenshot (51).png
 
