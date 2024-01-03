@@ -27,5 +27,7 @@ run the program
 
 
 # Output:
-C:\Users\admin\Pictures\Screenshots\Screenshot (51).png
 
+![Screenshot 2024-01-03 085920](https://github.com/rajamanikandanravikumar/Ex-04-webTech_imagemap/assets/145742839/88c60f5d-48ea-47a6-8aea-67e02a484757)
+
+![Screenshot 2024-01-03 085942](https://github.com/rajamanikandanravikumar/Ex-04-webTech_imagemap/assets/145742839/f506ec2c-ae29-46df-9a53-964a1dff2cfc)
